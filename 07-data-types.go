@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main8(){
+func main7(){
 	// 1. number
 	fmt.Println("satu = ", 1)
 	fmt.Println("dua = ", 2)

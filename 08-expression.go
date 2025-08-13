@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main9(){
+func main8(){
 	// if expression
 	name := "123456"
 

@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main7() {
+func main6() {
 	var i = 10
 	i += 10
 
